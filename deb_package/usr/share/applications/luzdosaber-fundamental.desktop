@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=Luz do Saber Fundamental
+Exec=/usr/bin/luzdosaber-fundamental
+Icon=luzdosaber-fundamental
+Terminal=false
+Type=Application
+StartupNotify=true

@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=GeaCron
+Exec=xdg-open http://geacron.com/home-pt/
+Icon=geacron
+Terminal=false
+Type=Application
+StartupNotify=true

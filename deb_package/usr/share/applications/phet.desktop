@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=PhET Interactive Simulations
+Name[pt_BR]=PhET Simulações
+Exec=xdg-open https://phet.colorado.edu/pt_BR/
+Icon=phet
+Terminal=false
+Type=Application
+StartupNotify=true

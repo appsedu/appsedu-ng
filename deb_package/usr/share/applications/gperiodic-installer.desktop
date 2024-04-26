@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=GPeriodic
+Exec=/usr/bin/gperiodic-installer
+Icon=gperiodic-installer
+Terminal=false
+Type=Application
+StartupNotify=true
+NoDisplay=false

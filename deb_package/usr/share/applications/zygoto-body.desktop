@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=ZygotoBody
+Exec=xdg-open https://www.zygotebody.com
+Icon=humanheart
+Terminal=false
+Type=Application
+StartupNotify=true

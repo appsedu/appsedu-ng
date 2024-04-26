@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=Google Mapas
+Exec=xdg-open https://www.google.com.br/maps/@4.2581199,-36.2746286,3.01z
+Icon=google-maps
+Terminal=false
+Type=Application
+StartupNotify=true

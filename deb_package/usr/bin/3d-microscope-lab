@@ -1,0 +1,5 @@
+#!/bin/bash
+
+xdg-open https://courses.ecampus.oregonstate.edu/bi206/virtual_scope/build.html &
+sleep 3
+xdotool search --sync --onlyvisible --class "google-chrome" windowactivate key F11

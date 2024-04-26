@@ -1,0 +1,10 @@
+Package: appsedu-ng
+Version: 0.0.1
+Installed-Size: 
+Maintainer: Crash and Eddie <crash.eddie123@gmail.com>
+Section: science
+Architecture: all
+Depends: xdotool, mesa-utils
+Priority: optional
+Description: Submenus for Educational Applications
+ Educational applications were divided into submenus in the Educational category.

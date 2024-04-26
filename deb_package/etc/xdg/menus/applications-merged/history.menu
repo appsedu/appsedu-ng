@@ -1,0 +1,18 @@
+<!DOCTYPE Menu PUBLIC "-//freedesktop//DTD Menu 1.0//EN"
+"http://www.freedesktop.org/standards/menu-spec/menu-1.0.dtd">
+<Menu>
+	<Name>Applications</Name>
+	<Menu>
+		<Name>Education</Name>
+		<Directory>xfce4-education.directory</Directory>
+		<Menu>
+			<Name>education-History</Name>
+			<Directory>education-History.directory</Directory>
+			<Include>
+				<Filename>geacron.desktop</Filename>
+				
+				<Filename>0ad.desktop</Filename>
+			</Include>
+		</Menu>
+	</Menu>
+</Menu>

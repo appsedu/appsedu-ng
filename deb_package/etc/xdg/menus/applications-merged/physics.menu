@@ -1,0 +1,25 @@
+<!DOCTYPE Menu PUBLIC "-//freedesktop//DTD Menu 1.0//EN"
+"http://www.freedesktop.org/standards/menu-spec/menu-1.0.dtd">
+<Menu>
+	<Name>Applications</Name>
+	<Menu>
+		<Name>Education</Name>
+		<Directory>xfce4-education.directory</Directory>
+		<Menu>
+			<Name>education-Physics</Name>
+			<Directory>education-Physics.directory</Directory>
+			<Include>
+				<Filename>schwarzschild.desktop</Filename>
+
+				<Filename>algodoo.desktop</Filename>
+				<Filename>reset-algodoo.desktop</Filename>
+				<Filename>optgeo-i18n.desktop</Filename>
+				<Filename>physion.desktop</Filename>
+				<Filename>org.kde.step.desktop</Filename>
+				<Filename>opticalraytracer.desktop</Filename>
+				<Filename>org.concord.energy.energy2d.desktop</Filename>
+				<Filename>openmeca.desktop</Filename>
+			</Include>
+		</Menu>
+	</Menu>
+</Menu>

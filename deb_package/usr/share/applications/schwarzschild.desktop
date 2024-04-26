@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Schwarzschild Black Hole
+Comment[pt_BR]=Visualização em tempo real de um Buraco Negro
+Exec=xdg-open http://spiro.fisica.unipd.it/~antonell/schwarzschild/live/
+Icon=schwarzschild
+Terminal=false
+Type=Application
+StartupNotify=true

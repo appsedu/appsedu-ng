@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Celestia
+Exec=/usr/bin/celestia-installer
+Icon=celestia
+Terminal=false
+Type=Application
+StartupNotify=true
+NoDisplay=false

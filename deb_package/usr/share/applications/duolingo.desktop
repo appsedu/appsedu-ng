@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=Duolingo
+Exec=xdg-open https://pt.duolingo.com
+Icon=duolingo
+Terminal=false
+Type=Application
+StartupNotify=true

@@ -1,0 +1,21 @@
+<!DOCTYPE Menu PUBLIC "-//freedesktop//DTD Menu 1.0//EN"
+"http://www.freedesktop.org/standards/menu-spec/menu-1.0.dtd">
+<Menu>
+	<Name>Applications</Name>
+	<Menu>
+		<Name>Education</Name>
+		<Directory>xfce4-education.directory</Directory>
+		<Menu>
+			<Name>education-Biology</Name>
+			<Directory>education-Biology.directory</Directory>
+			<Include>
+				<Filename>3d-microscope-lab.desktop</Filename>
+				<Filename>zygoto-body.desktop</Filename>
+				<Filename>anatomy-learning.desktop</Filename>
+				
+				<Filename>virtual-microscope.desktop</Filename>
+				<Filename>com.github.google.google-cow.desktop</Filename>
+			</Include>
+		</Menu>
+	</Menu>
+</Menu>

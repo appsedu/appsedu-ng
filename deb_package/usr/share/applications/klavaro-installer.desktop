@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Klavaro
+Exec=/usr/bin/klavaro-installer
+Icon=klavaro-installer
+Terminal=false
+Type=Application
+StartupNotify=true
+NoDisplay=false

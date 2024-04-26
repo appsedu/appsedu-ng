@@ -1,0 +1,22 @@
+<!DOCTYPE Menu PUBLIC "-//freedesktop//DTD Menu 1.0//EN"
+"http://www.freedesktop.org/standards/menu-spec/menu-1.0.dtd">
+<Menu>
+	<Name>Applications</Name>
+	<Menu>
+		<Name>Education</Name>
+		<Directory>xfce4-education.directory</Directory>
+		<Menu>
+			<Name>education-Multidisciplinary</Name>
+			<Directory>education-Multidisciplinary.directory</Directory>
+			<Include>
+				<Filename>phet.desktop</Filename>
+
+				<Filename>anki.desktop</Filename>
+				<Filename>gnumeric.desktop</Filename>
+				<Filename>org.kde.parley.desktop</Filename>
+				<Filename>org.kde.kwordquiz.desktop</Filename>
+				<Filename>eduactiv8.desktop</Filename>
+			</Include>
+		</Menu>
+	</Menu>
+</Menu>

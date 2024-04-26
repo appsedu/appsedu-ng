@@ -1,0 +1,28 @@
+<!DOCTYPE Menu PUBLIC "-//freedesktop//DTD Menu 1.0//EN"
+"http://www.freedesktop.org/standards/menu-spec/menu-1.0.dtd">
+<Menu>
+	<Name>Applications</Name>
+	<Menu>
+		<Name>Education</Name>
+		<Directory>xfce4-education.directory</Directory>
+		<Menu>
+			<Name>education-Math</Name>
+			<Directory>education-Math.directory</Directory>
+			<Include>
+				<Filename>libreoffice-math.desktop</Filename>
+				
+				<Filename>geogebra-classic.desktop</Filename>
+				<Filename>gnumeric.desktop</Filename>
+				<Filename>io.github.wxmaxima_developers.wxMaxima.desktop</Filename>
+				<Filename>org.kde.kbruch.desktop</Filename>
+				<Filename>org.kde.kalgebra.desktop</Filename>
+				<Filename>org.kde.kig.desktop</Filename>
+				<Filename>org.kde.kmplot.desktop</Filename>
+				<Filename>JFractionLab.desktop</Filename>
+				<Filename>graphmonkey.desktop</Filename>
+				<Filename>qalculate-gtk.desktop</Filename>
+				<Filename>carmetal.desktop</Filename>
+			</Include>
+		</Menu>
+	</Menu>
+</Menu>

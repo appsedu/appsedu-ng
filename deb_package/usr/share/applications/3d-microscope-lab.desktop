@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=3D Microscope Lab
+Exec=/usr/bin/3d-microscope-lab
+Icon=3d-microscope
+Terminal=false
+Type=Application
+StartupNotify=true

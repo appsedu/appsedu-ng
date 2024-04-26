@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=More Educational Apps
+Name[pt_BR]=Mais Apps Educativos
+Exec=xdg-open https://appsedu.github.io/catalog-apps/
+Icon=more-educational-apps
+Terminal=false
+Type=Application
+StartupNotify=true
+Categories=Education;

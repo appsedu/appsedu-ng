@@ -1,0 +1,13 @@
+#!/bin/bash
+
+url="https://appluzdosaber.seduc.ce.gov.br"
+
+# if [ -f /usr/bin/firefox ]; then
+#     /usr/bin/firefox $url &
+#     sleep 3
+#     xdotool search --sync --onlyvisible --class "Firefox" windowactivate key F11
+# else
+xdg-open $url &
+sleep 3
+xdotool search --sync --onlyvisible --class "google-chrome" windowactivate key F11
+# fi

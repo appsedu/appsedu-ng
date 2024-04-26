@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=Tinkercad
+Exec=xdg-open https://www.tinkercad.com/dashboard
+Icon=tinkercad
+Terminal=false
+Type=Application
+StartupNotify=true

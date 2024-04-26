@@ -1,0 +1,27 @@
+<!DOCTYPE Menu PUBLIC "-//freedesktop//DTD Menu 1.0//EN"
+"http://www.freedesktop.org/standards/menu-spec/menu-1.0.dtd">
+<Menu>
+	<Name>Applications</Name>
+	<Menu>
+		<Name>Education</Name>
+		<Directory>xfce4-education.directory</Directory>
+		<Menu>
+			<Name>education-Electricity</Name>
+			<Directory>education-Electricity.directory</Directory>
+			<Include>
+				<Filename>tinkercad.desktop</Filename>
+
+				<Filename>arduino-ide.desktop</Filename>
+				<Filename>circuit-simulator.desktop</Filename>
+				<Filename>circuitmod.desktop</Filename>
+				<Filename>logisim.desktop</Filename>
+				<Filename>gresistor.desktop</Filename>
+				<Filename>simulide.desktop</Filename>
+				<Filename>logisim-evolution.desktop</Filename>
+				<Filename>digital-simulator.desktop</Filename>
+				<Filename>oregano.desktop</Filename>
+				<Filename>qelectrotech.desktop</Filename>
+			</Include>
+		</Menu>
+	</Menu>
+</Menu>

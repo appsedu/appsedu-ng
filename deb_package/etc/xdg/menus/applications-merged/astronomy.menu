@@ -1,0 +1,24 @@
+<!DOCTYPE Menu PUBLIC "-//freedesktop//DTD Menu 1.0//EN"
+"http://www.freedesktop.org/standards/menu-spec/menu-1.0.dtd">
+<Menu>
+	<Name>Applications</Name>
+	<Menu>
+		<Name>Education</Name>
+		<Directory>xfce4-education.directory</Directory>
+		<Menu>
+			<Name>education-Astronomy</Name>
+			<Directory>education-Astronomy.directory</Directory>
+			<Include>
+				<Filename>celestia-installer.desktop</Filename>
+				<Filename>celestia-gtk.desktop</Filename>
+
+				<Filename>google-earth-pro.desktop</Filename>
+				<Filename>org.kde.kstars.desktop</Filename>
+				<Filename>openuniverse.desktop</Filename>
+				<Filename>planets.desktop</Filename>
+				<Filename>stellarium.desktop</Filename>
+				<Filename>gpredict.desktop</Filename>
+			</Include>
+		</Menu>
+	</Menu>
+</Menu>
