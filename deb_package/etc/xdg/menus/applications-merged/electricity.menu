@@ -10,14 +10,18 @@
 			<Directory>education-Electricity.directory</Directory>
 			<Include>
 				<Filename>tinkercad.desktop</Filename>
+				<Filename>logisim-installer.desktop</Filename>
+				<Filename>logisim.desktop</Filename>
+				<Filename>logisim-evolution-installer.desktop</Filename>
+				<Filename>logisim-evolution-logisim-evolution.desktop</Filename>
 
 				<Filename>arduino-ide.desktop</Filename>
 				<Filename>circuit-simulator.desktop</Filename>
 				<Filename>circuitmod.desktop</Filename>
-				<Filename>logisim.desktop</Filename>
+				
 				<Filename>gresistor.desktop</Filename>
 				<Filename>simulide.desktop</Filename>
-				<Filename>logisim-evolution.desktop</Filename>
+				
 				<Filename>digital-simulator.desktop</Filename>
 				<Filename>oregano.desktop</Filename>
 				<Filename>qelectrotech.desktop</Filename>

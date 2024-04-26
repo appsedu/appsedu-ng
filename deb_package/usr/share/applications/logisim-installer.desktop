@@ -1,7 +1,7 @@
 [Desktop Entry]
-Name=Celestia
-Exec=/usr/bin/celestia-installer
-Icon=celestia-installer
+Name=Logisim
+Exec=/usr/bin/logisim-installer
+Icon=logisim-installer
 Terminal=false
 Type=Application
 StartupNotify=true

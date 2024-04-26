@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Logisim Evolution
+Exec=/usr/bin/logisim-evolution-installer
+Icon=logisim-evolution-installer
+Terminal=false
+Type=Application
+StartupNotify=true
+NoDisplay=false

@@ -11,8 +11,8 @@
 			<Include>
 				<Filename>klavaro-installer.desktop</Filename>
 				<Filename>klavaro.desktop</Filename>
-
-				<Filename>logisim.desktop</Filename>
+				<Filename>logisim-evolution-logisim-evolution.desktop</Filename>
+				
 				<Filename>org.kde.ktouch.desktop</Filename>
 				<Filename>scratch.desktop</Filename>
 				<Filename>logisim-evolution.desktop</Filename>
