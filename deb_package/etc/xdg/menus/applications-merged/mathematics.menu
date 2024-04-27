@@ -10,12 +10,13 @@
 			<Directory>education-Math.directory</Directory>
 			<Include>
 				<Filename>libreoffice-math.desktop</Filename>
+				<Filename>kalgebra-installer.desktop</Filename>
+				<Filename>org.kde.kalgebra.desktop</Filename>
 				
 				<Filename>geogebra-classic.desktop</Filename>
 				<Filename>gnumeric.desktop</Filename>
 				<Filename>io.github.wxmaxima_developers.wxMaxima.desktop</Filename>
 				<Filename>org.kde.kbruch.desktop</Filename>
-				<Filename>org.kde.kalgebra.desktop</Filename>
 				<Filename>org.kde.kig.desktop</Filename>
 				<Filename>org.kde.kmplot.desktop</Filename>
 				<Filename>JFractionLab.desktop</Filename>

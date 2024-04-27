@@ -9,13 +9,15 @@
 			<Name>education-Mechatronics</Name>
 			<Directory>education-Mechatronics.directory</Directory>
 			<Include>
+				<Filename>qelectrotech-installer.desktop</Filename>
+				<Filename>qelectrotech.desktop</Filename>
+
 				<Filename>arduino-ide.desktop</Filename>
 				<Filename>webots.desktop</Filename>
 				<Filename>gazebo.desktop</Filename>
 				<Filename>coppelia-sim-edu.desktop</Filename>
 				<Filename>HopsanGUI.desktop</Filename>
 				<Filename>HoLC.desktop</Filename>
-				<Filename>qelectrotech.desktop</Filename>
 				<Filename>com.cncsimulator.free-cnc-simulator-wine.desktop</Filename>
 				<Filename>CAMotics.desktop</Filename>
 			</Include>

@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=KAlgebra
+Exec=/usr/bin/kalgebra-installer
+Icon=kalgebra-installer
+Terminal=false
+Type=Application
+StartupNotify=true
+NoDisplay=false

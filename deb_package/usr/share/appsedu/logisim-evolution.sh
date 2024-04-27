@@ -6,7 +6,9 @@ wget "https://github.com/logisim-evolution/logisim-evolution/releases/download/v
 apt update
 apt install /root/logisim-evolution.deb -y
 
-sed -i '/NoDisplay=/c\NoDisplay=true' /usr/share/applications/logisim-evolution-installer.desktop
-sed -i '/Categories=/d' /usr/share/applications/logisim-evolution-logisim-evolution.desktop
-
-rm -rf /root/logisim-evolution.deb
+hadInstalled=$(apt list logisim-evolution | grep instal | wc -l)
+if [ "$hadInstalled" == "1" ]; then
+    sed -i '/NoDisplay=/c\NoDisplay=true' /usr/share/applications/logisim-evolution-installer.desktop
+    sed -i '/Categories=/d' /usr/share/applications/logisim-evolution-logisim-evolution.desktop
+    rm -rf /root/logisim-evolution.deb    
+fi
