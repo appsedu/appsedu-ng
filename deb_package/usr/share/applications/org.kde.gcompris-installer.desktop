@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=GCompris
+Exec=/usr/bin/gcompris-qt-installer
+Icon=gcompris-qt-installer
+Terminal=false
+Type=Application
+StartupNotify=true
+NoDisplay=false

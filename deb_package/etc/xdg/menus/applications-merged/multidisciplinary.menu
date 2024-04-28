@@ -10,11 +10,12 @@
 			<Directory>education-Multidisciplinary.directory</Directory>
 			<Include>
 				<Filename>phet.desktop</Filename>
+				<Filename>org.kde.kwordquiz.desktop</Filename>
+				<Filename>org.kde.kwordquiz-installer.desktop</Filename>
 
 				<Filename>anki.desktop</Filename>
 				<Filename>gnumeric.desktop</Filename>
 				<Filename>org.kde.parley.desktop</Filename>
-				<Filename>org.kde.kwordquiz.desktop</Filename>
 				<Filename>eduactiv8.desktop</Filename>
 			</Include>
 		</Menu>

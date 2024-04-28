@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=Corrigir sistema de pacotes
+Exec=fix-apt
+Icon=aptdaemon-cleanup
+Terminal=false
+Type=Application
+StartupNotify=true
+NoDisplay=false
+Categories=System;

@@ -10,12 +10,13 @@
 			<Directory>education-Physics.directory</Directory>
 			<Include>
 				<Filename>schwarzschild.desktop</Filename>
+				<Filename>org.kde.step-installer.desktop</Filename>
+				<Filename>org.kde.step.desktop</Filename>
 
 				<Filename>algodoo.desktop</Filename>
 				<Filename>reset-algodoo.desktop</Filename>
 				<Filename>optgeo-i18n.desktop</Filename>
 				<Filename>physion.desktop</Filename>
-				<Filename>org.kde.step.desktop</Filename>
 				<Filename>opticalraytracer.desktop</Filename>
 				<Filename>org.concord.energy.energy2d.desktop</Filename>
 				<Filename>openmeca.desktop</Filename>

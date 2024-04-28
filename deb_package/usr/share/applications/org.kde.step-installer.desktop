@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Step
+Exec=/usr/bin/org.kde.step-installer
+Icon=step-installer
+Terminal=false
+Type=Application
+StartupNotify=true
+NoDisplay=false

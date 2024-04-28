@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=KWordQuiz
+Exec=/usr/bin/org.kde.kwordquiz-installer
+Icon=kwordquiz-installer
+Terminal=false
+Type=Application
+StartupNotify=true
+NoDisplay=false

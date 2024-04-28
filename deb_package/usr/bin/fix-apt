@@ -1,0 +1,5 @@
+#!/bin/bash
+
+pkexec /usr/bin/fix-apt.sh 2>&1 >/dev/null | \
+zenity --progress --pulsate --no-cancel --auto-close --title="Corrigindo APT quebrado!" --width=450 \
+--text="Espere um pouco. Estamos tentando corrigir o sistema de pacotes..."
