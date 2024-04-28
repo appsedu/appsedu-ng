@@ -10,9 +10,10 @@
 			<Directory>education-Languages.directory</Directory>
 			<Include>
 				<Filename>duolingo.desktop</Filename>
+				<Filename>gconjugue-installer.desktop</Filename>
+				<Filename>gconjugue.desktop</Filename>
 
 				<Filename>anki.desktop</Filename>
-				<Filename>gconjugue.desktop</Filename>
 				<Filename>goldendict.desktop</Filename>
 				<Filename>org.kde.parley.desktop</Filename>
 				<Filename>org.kde.kwordquiz.desktop</Filename>

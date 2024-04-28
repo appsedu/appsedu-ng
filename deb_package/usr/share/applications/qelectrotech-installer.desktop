@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=QElectroTech
+Exec=/usr/bin/qelectrotech-installer
+Icon=qelectrotech-installer
+Terminal=false
+Type=Application
+StartupNotify=true
+NoDisplay=false
