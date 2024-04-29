@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=EasyChem
+Exec=/usr/bin/easychem-installer
+Icon=easychem-installer
+Terminal=false
+Type=Application
+StartupNotify=true
+NoDisplay=false

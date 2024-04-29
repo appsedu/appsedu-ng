@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Kalzium
+Exec=/usr/bin/kalzium-installer
+Icon=kalzium-installer
+Terminal=false
+Type=Application
+StartupNotify=true
+NoDisplay=false

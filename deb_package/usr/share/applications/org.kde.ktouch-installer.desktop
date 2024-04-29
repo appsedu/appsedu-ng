@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=KTouch
+Exec=/usr/bin/ktouch-installer
+Icon=ktouch-installer
+Terminal=false
+Type=Application
+StartupNotify=true
+NoDisplay=false

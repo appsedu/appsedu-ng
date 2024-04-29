@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=ChemTool
+Exec=/usr/bin/chemtool-installer
+Icon=chemtool-installer
+Terminal=false
+Type=Application
+StartupNotify=true
+NoDisplay=false

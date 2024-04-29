@@ -15,19 +15,24 @@
 				<Filename>gelemental.desktop</Filename>
 				<Filename>avogadro-installer.desktop</Filename>
 				<Filename>avogadro2.desktop</Filename>
+				<Filename>org.kde.kalzium-installer.desktop</Filename>
+				<Filename>org.kde.kalzium.desktop</Filename>
+				<Filename>gchempaint-installer.desktop</Filename>
+				<Filename>gchempaint-0.14.desktop</Filename>
+				<Filename>gchem3d-0.14.desktop</Filename>
+				<Filename>gchemcalc-0.14.desktop</Filename>
+				<Filename>gchemtable-0.14.desktop</Filename>
+				<Filename>gspectrum-0.14.desktop</Filename>
+				<Filename>chemtool-installer.desktop</Filename>
+				<Filename>chemtool.desktop</Filename>
+				<Filename>easychem-installer.desktop</Filename>
+				<Filename>easychem.desktop</Filename>
+				<Filename>gdis-installer.desktop</Filename>
+				<Filename>gdis.desktop</Filename>
 
 				<Filename>3D Viewer.desktop</Filename>
 				<Filename>ChemSketch.desktop</Filename>
-				<Filename>gchem3d-0.14.desktop</Filename>
-				<Filename>gchemcalc-0.14.desktop</Filename>
-				<Filename>gchempaint-0.14.desktop</Filename>
-				<Filename>gchemtable-0.14.desktop</Filename>
-				<Filename>gspectrum-0.14.desktop</Filename>
 				<Filename>irydium-chemistry-lab.desktop</Filename>
-				<Filename>org.kde.kalzium.desktop</Filename>
-				<Filename>chemtool.desktop</Filename>
-				<Filename>easychem.desktop</Filename>
-				<Filename>gdis.desktop</Filename>
 				<Filename>elements.desktop</Filename>
 			</Include>
 		</Menu>

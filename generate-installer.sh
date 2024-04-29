@@ -2,7 +2,7 @@
 #
 # HOW TO USE:
 #
-# ./generate-installer.sh avogadro avogadro "Avogadro"
+# ./generate-installer.sh gchempaint gchempaint "GChemPaint"
 
 canonicalName=$1
 pkgName=$2

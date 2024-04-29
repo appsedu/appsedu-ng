@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=GDIS Molecule
+Exec=/usr/bin/gdis-installer
+Icon=gdis-installer
+Terminal=false
+Type=Application
+StartupNotify=true
+NoDisplay=false

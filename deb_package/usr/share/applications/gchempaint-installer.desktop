@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=GChemPaint
+Exec=/usr/bin/gchempaint-installer
+Icon=gchempaint-installer
+Terminal=false
+Type=Application
+StartupNotify=true
+NoDisplay=false
