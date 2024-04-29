@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Planets
+Exec=/usr/bin/planets-installer
+Icon=planets-installer
+Terminal=false
+Type=Application
+StartupNotify=true
+NoDisplay=false

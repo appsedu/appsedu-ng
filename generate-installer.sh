@@ -2,7 +2,7 @@
 #
 # HOW TO USE:
 #
-# ./generate-installer.sh optgeo optgeo OptGeo
+# ./generate-installer.sh gpredict gpredict "GPredict"
 
 canonicalName=$1
 pkgName=$2

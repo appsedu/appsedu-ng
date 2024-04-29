@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=GPredict
+Exec=/usr/bin/gpredict-installer
+Icon=gpredict-installer
+Terminal=false
+Type=Application
+StartupNotify=true
+NoDisplay=false

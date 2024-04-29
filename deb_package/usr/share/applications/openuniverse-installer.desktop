@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=OpenUniverse
+Exec=/usr/bin/openuniverse-installer
+Icon=openuniverse-installer
+Terminal=false
+Type=Application
+StartupNotify=true
+NoDisplay=false

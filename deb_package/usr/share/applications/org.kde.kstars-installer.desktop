@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=KStars
+Exec=/usr/bin/kstars-installer
+Icon=kstars-installer
+Terminal=false
+Type=Application
+StartupNotify=true
+NoDisplay=false

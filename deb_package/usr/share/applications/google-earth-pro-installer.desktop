@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Google Earth
+Exec=/usr/bin/google-earth-pro-installer
+Icon=google-earth-pro-installer
+Terminal=false
+Type=Application
+StartupNotify=true
+NoDisplay=false

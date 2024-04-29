@@ -12,8 +12,9 @@
 				<Filename>google-maps.desktop</Filename>
 				<Filename>kgeography-installer.desktop</Filename>
 				<Filename>org.kde.kgeography.desktop</Filename>
-				
+				<Filename>google-earth-pro-installer.desktop</Filename>
 				<Filename>google-earth-pro.desktop</Filename>
+				
 				<Filename>org.kde.marble-qt.desktop</Filename>
 				<Filename>org.kde.marble.maps.desktop</Filename>
 			</Include>
