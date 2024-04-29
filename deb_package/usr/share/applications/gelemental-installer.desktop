@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=gElemental
+Exec=/usr/bin/gelemental-installer
+Icon=gelemental-installer
+Terminal=false
+Type=Application
+StartupNotify=true
+NoDisplay=false

@@ -12,9 +12,8 @@
 				<Filename>3d-microscope-lab.desktop</Filename>
 				<Filename>zygoto-body.desktop</Filename>
 				<Filename>anatomy-learning.desktop</Filename>
-				
-				<Filename>virtual-microscope.desktop</Filename>
-				<Filename>com.github.google.google-cow.desktop</Filename>
+				<Filename>com.google.code.open3dviewer-cow-installer.desktop</Filename>
+				<Filename>com.google.code.open3dviewer-cow.desktop</Filename>
 			</Include>
 		</Menu>
 	</Menu>

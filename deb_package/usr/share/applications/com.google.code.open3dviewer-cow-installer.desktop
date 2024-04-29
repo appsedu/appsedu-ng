@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Vaquinha em 3D
+Exec=/usr/bin/google-labs-cow-installer
+Icon=google-labs-cow-installer
+Terminal=false
+Type=Application
+StartupNotify=true
+NoDisplay=false

@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Avogadro
+Exec=/usr/bin/avogadro-installer
+Icon=avogadro-installer
+Terminal=false
+Type=Application
+StartupNotify=true
+NoDisplay=false

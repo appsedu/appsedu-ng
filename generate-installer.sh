@@ -2,7 +2,7 @@
 #
 # HOW TO USE:
 #
-# ./generate-installer.sh gpredict gpredict "GPredict"
+# ./generate-installer.sh avogadro avogadro "Avogadro"
 
 canonicalName=$1
 pkgName=$2
