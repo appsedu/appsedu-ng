@@ -12,17 +12,23 @@
 				<Filename>libreoffice-math.desktop</Filename>
 				<Filename>kalgebra-installer.desktop</Filename>
 				<Filename>org.kde.kalgebra.desktop</Filename>
-				
-				<Filename>geogebra-classic.desktop</Filename>
-				<Filename>gnumeric.desktop</Filename>
-				<Filename>io.github.wxmaxima_developers.wxMaxima.desktop</Filename>
+				<Filename>org.kde.kbruch-installer.desktop</Filename>
+				<Filename>org.kde.kig-installer.desktop</Filename>
+				<Filename>org.kde.kmplot-installer.desktop</Filename>
 				<Filename>org.kde.kbruch.desktop</Filename>
 				<Filename>org.kde.kig.desktop</Filename>
 				<Filename>org.kde.kmplot.desktop</Filename>
+				<Filename>gnumeric.desktop</Filename>
+				<Filename>geogebra-classic-installer.desktop</Filename>
+				<Filename>geogebra-classic.desktop</Filename>
+				<Filename>carmetal-installer.desktop</Filename>
+				<Filename>carmetal.desktop</Filename>
+
+				<Filename>io.github.wxmaxima_developers.wxMaxima.desktop</Filename>
 				<Filename>JFractionLab.desktop</Filename>
 				<Filename>graphmonkey.desktop</Filename>
 				<Filename>qalculate-gtk.desktop</Filename>
-				<Filename>carmetal.desktop</Filename>
+				
 			</Include>
 		</Menu>
 	</Menu>

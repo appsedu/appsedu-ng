@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Scratch
+Exec=/usr/bin/scratch-installer
+Icon=scratch-installer
+Terminal=false
+Type=Application
+StartupNotify=true
+NoDisplay=false

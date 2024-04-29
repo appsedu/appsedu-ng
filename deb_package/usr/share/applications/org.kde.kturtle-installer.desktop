@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=KTurtle
+Exec=/usr/bin/kturtle-installer
+Icon=kturtle-installer
+Terminal=false
+Type=Application
+StartupNotify=true
+NoDisplay=false

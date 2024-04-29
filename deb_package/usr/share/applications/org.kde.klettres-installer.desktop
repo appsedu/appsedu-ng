@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=KLettres
+Exec=/usr/bin/klettres-installer
+Icon=klettres-installer
+Terminal=false
+Type=Application
+StartupNotify=true
+NoDisplay=false

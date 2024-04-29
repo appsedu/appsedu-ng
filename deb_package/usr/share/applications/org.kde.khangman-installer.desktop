@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=KHangMan
+Exec=/usr/bin/khangman-installer
+Icon=khangman-installer
+Terminal=false
+Type=Application
+StartupNotify=true
+NoDisplay=false

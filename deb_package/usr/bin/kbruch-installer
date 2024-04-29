@@ -1,0 +1,7 @@
+#!/bin/bash
+
+pkexec /usr/share/appsedu/kbruch.sh 2>&1 >/dev/null | \
+zenity --progress --pulsate --no-cancel --auto-close --title="KBruch" --width=450 \
+--text="Espere um pouco. Estamos instalando o app..."
+
+kbruch

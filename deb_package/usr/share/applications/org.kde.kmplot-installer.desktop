@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=KmPlot
+Exec=/usr/bin/kmplot-installer
+Icon=kmplot-installer
+Terminal=false
+Type=Application
+StartupNotify=true
+NoDisplay=false

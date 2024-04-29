@@ -9,16 +9,18 @@
 			<Name>education-Computing</Name>
 			<Directory>education-Computing.directory</Directory>
 			<Include>
+				<Filename>logisim-evolution.desktop</Filename>
 				<Filename>klavaro-installer.desktop</Filename>
 				<Filename>klavaro.desktop</Filename>
 				<Filename>logisim-evolution-logisim-evolution.desktop</Filename>
 				<Filename>org.kde.ktouch-installer.desktop</Filename>
 				<Filename>org.kde.ktouch.desktop</Filename>
-
+				<Filename>scratch-installer.desktop</Filename>
 				<Filename>scratch.desktop</Filename>
-				<Filename>logisim-evolution.desktop</Filename>
-				<Filename>digital-simulator.desktop</Filename>
+				<Filename>org.kde.kturtle-installer.desktop</Filename>
 				<Filename>org.kde.kturtle.desktop</Filename>
+
+				<Filename>digital-simulator.desktop</Filename>
 				<Filename>cisco-pt7.desktop</Filename>
 			</Include>
 		</Menu>

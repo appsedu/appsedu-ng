@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Geogebra Classic 6
+Exec=/usr/bin/geogebra-classic-installer
+Icon=geogebra-classic-installer
+Terminal=false
+Type=Application
+StartupNotify=true
+NoDisplay=false

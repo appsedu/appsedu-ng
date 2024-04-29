@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=TuxMath
+Exec=/usr/bin/tuxmath-installer
+Icon=tuxmath-installer
+Terminal=false
+Type=Application
+StartupNotify=true
+NoDisplay=false

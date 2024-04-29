@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=KBruch
+Exec=/usr/bin/kbruch-installer
+Icon=kbruch-installer
+Terminal=false
+Type=Application
+StartupNotify=true
+NoDisplay=false

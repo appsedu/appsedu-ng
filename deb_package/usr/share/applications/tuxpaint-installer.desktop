@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=TuxPaint
+Exec=/usr/bin/tuxpaint-installer
+Icon=tuxpaint-installer
+Terminal=false
+Type=Application
+StartupNotify=true
+NoDisplay=false

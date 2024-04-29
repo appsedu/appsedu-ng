@@ -12,14 +12,19 @@
 				<Filename>luzdosaber-fundamental.desktop</Filename>
 				<Filename>org.kde.gcompris-installer.desktop</Filename>
 				<Filename>org.kde.gcompris.desktop</Filename>
-				
+				<Filename>scratch.desktop</Filename>
+				<Filename>org.kde.khangman-installer.desktop</Filename>
+				<Filename>org.kde.klettres-installer.desktop</Filename>
 				<Filename>org.kde.khangman.desktop</Filename>
 				<Filename>org.kde.klettres.desktop</Filename>
-				<Filename>sugarizer.desktop</Filename>
+				<Filename>tuxpaint-installer.desktop</Filename>
+				<Filename>tuxmath-installer.desktop</Filename>
+				<Filename>tuxtype-installer.desktop</Filename>
 				<Filename>tuxpaint.desktop</Filename>
 				<Filename>tuxmath.desktop</Filename>
-				<Filename>scratch.desktop</Filename>
 				<Filename>tuxtype.desktop</Filename>
+
+				<Filename>sugarizer.desktop</Filename>
 				<Filename>pysycache.desktop</Filename>
 				<Filename>pysycache-admin.desktop</Filename>
 				<Filename>net.minetest.minetest.desktop</Filename>

@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=TuxType
+Exec=/usr/bin/tuxtype-installer
+Icon=tuxtype-installer
+Terminal=false
+Type=Application
+StartupNotify=true
+NoDisplay=false

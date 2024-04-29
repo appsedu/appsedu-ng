@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=CaRMetal
+Exec=/usr/bin/carmetal-installer
+Icon=carmetal-installer
+Terminal=false
+Type=Application
+StartupNotify=true
+NoDisplay=false
