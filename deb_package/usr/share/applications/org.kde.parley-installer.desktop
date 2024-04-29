@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Parley
+Exec=/usr/bin/parley-installer
+Icon=parley-installer
+Terminal=false
+Type=Application
+StartupNotify=true
+NoDisplay=false

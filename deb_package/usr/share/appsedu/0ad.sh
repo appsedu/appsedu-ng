@@ -6,8 +6,8 @@ wget "http://archive.ubuntu.com/ubuntu/pool/main/i/icu/libicu72_72.1-3ubuntu3_am
 -q --no-check-certificate --show-progress -O /root/libicu72.deb
 
 apt update
-apt install /root/0ad.deb -y
 apt install /root/libicu72.deb -y
+apt install /root/0ad.deb -y
 
 hadInstalled=$(apt list 0ad | grep instal | wc -l)
 if [ "$hadInstalled" == "1" ]; then
