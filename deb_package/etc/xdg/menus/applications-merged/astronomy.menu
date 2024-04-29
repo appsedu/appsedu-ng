@@ -11,12 +11,13 @@
 			<Include>
 				<Filename>celestia-installer.desktop</Filename>
 				<Filename>celestia-gtk.desktop</Filename>
+				<Filename>stellarium-installer.desktop</Filename>
+				<Filename>org.stellarium.Stellarium.desktop</Filename>
 
 				<Filename>google-earth-pro.desktop</Filename>
 				<Filename>org.kde.kstars.desktop</Filename>
 				<Filename>openuniverse.desktop</Filename>
 				<Filename>planets.desktop</Filename>
-				<Filename>stellarium.desktop</Filename>
 				<Filename>gpredict.desktop</Filename>
 			</Include>
 		</Menu>

@@ -2,7 +2,7 @@
 #
 # HOW TO USE:
 #
-# ./generate-installer.sh org.kde.gcompris gcompris-qt GCompris
+# ./generate-installer.sh optgeo optgeo OptGeo
 
 canonicalName=$1
 pkgName=$2

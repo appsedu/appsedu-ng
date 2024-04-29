@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Stellarium
+Exec=/usr/bin/stellarium-installer
+Icon=stellarium-installer
+Terminal=false
+Type=Application
+StartupNotify=true
+NoDisplay=false

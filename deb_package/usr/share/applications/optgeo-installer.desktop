@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=OptGeo
+Exec=/usr/bin/optgeo-installer
+Icon=optgeo-installer
+Terminal=false
+Type=Application
+StartupNotify=true
+NoDisplay=false
