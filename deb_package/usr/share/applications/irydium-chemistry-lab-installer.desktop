@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Irydium Chemistry Lab
+Exec=/usr/bin/irydium-chemistry-lab-installer
+Icon=irydium-installer
+Terminal=false
+Type=Application
+StartupNotify=true
+NoDisplay=false

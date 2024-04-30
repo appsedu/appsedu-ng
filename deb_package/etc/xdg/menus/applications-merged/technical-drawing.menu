@@ -10,8 +10,8 @@
 			<Directory>education-TechnicalDrawing.directory</Directory>
 			<Include>
 				<Filename>tinkercad.desktop</Filename>
-
-				<Filename>freecad.desktop</Filename>
+				<Filename>org.freecadweb.FreeCAD.desktop</Filename>
+				
 				<Filename>librecad.desktop</Filename>
 				<Filename>solvespace.desktop</Filename>
 				<Filename>sweethome3d.desktop</Filename>

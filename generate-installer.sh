@@ -2,7 +2,7 @@
 #
 # HOW TO USE:
 #
-# ./generate-installer.sh gchempaint gchempaint "GChemPaint"
+# ./generate-installer.sh irydium-chemistry-lab irydium-chemistry-lab "Irydium Chemistry Lab"
 
 canonicalName=$1
 pkgName=$2
