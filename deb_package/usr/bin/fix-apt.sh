@@ -2,3 +2,4 @@
 
 dpkg --configure -a
 apt update
+apt install appsedu

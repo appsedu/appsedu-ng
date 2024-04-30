@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=LibreCAD
+Exec=/usr/bin/librecad-installer
+Icon=librecad-installer
+Terminal=false
+Type=Application
+StartupNotify=true
+NoDisplay=false

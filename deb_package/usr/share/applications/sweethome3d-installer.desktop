@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Sweet Home 3D
+Exec=/usr/bin/sweethome3d-installer
+Icon=sweethome3d-installer
+Terminal=false
+Type=Application
+StartupNotify=true
+NoDisplay=false

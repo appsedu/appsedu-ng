@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=SolveSpace
+Exec=/usr/bin/solvespace-installer
+Icon=solvespace-installer
+Terminal=false
+Type=Application
+StartupNotify=true
+NoDisplay=false

@@ -11,10 +11,15 @@
 			<Include>
 				<Filename>tinkercad.desktop</Filename>
 				<Filename>org.freecadweb.FreeCAD.desktop</Filename>
-				
+				<Filename>librecad-installer.desktop</Filename>
 				<Filename>librecad.desktop</Filename>
-				<Filename>solvespace.desktop</Filename>
+				<Filename>sweethome3d-installer.desktop</Filename>
 				<Filename>sweethome3d.desktop</Filename>
+				<Filename>sweethome3d-furniture-editor.desktop</Filename>
+				<Filename>sweethome3d-textures-editor.desktop</Filename>
+				<Filename>solvespace-installer.desktop</Filename>
+				<Filename>solvespace.desktop</Filename>
+				<Filename>gcad3d-installer.desktop</Filename>
 				<Filename>gcad3d.desktop</Filename>
 			</Include>
 		</Menu>
