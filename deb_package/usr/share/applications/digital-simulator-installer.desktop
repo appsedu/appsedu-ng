@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Digital
+Exec=/usr/bin/digital-simulator-installer
+Icon=digital-simulator-installer
+Terminal=false
+Type=Application
+StartupNotify=true
+NoDisplay=false

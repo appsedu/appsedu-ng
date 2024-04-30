@@ -31,10 +31,11 @@
 				<Filename>gdis.desktop</Filename>
 				<Filename>irydium-chemistry-lab-installer.desktop</Filename>
 				<Filename>irydium-chemistry-lab.desktop</Filename>
+				<Filename>elements-installer.desktop</Filename>
+				<Filename>elements.desktop</Filename>
 
 				<Filename>3D Viewer.desktop</Filename>
 				<Filename>ChemSketch.desktop</Filename>
-				<Filename>elements.desktop</Filename>
 			</Include>
 		</Menu>
 	</Menu>

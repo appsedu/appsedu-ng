@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Elements
+Exec=/usr/bin/elements-installer
+Icon=elements-installer
+Terminal=false
+Type=Application
+StartupNotify=true
+NoDisplay=false
