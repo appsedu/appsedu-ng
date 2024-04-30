@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=OSD Lyrics
+Exec=/usr/bin/osdlyrics-installer
+Icon=osdlyrics-installer
+Terminal=false
+Type=Application
+StartupNotify=true
+NoDisplay=false

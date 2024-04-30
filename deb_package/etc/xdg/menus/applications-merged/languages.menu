@@ -15,10 +15,12 @@
 				<Filename>org.kde.kwordquiz.desktop</Filename>
 				<Filename>org.kde.parley-installer.desktop</Filename>
 				<Filename>org.kde.parley.desktop</Filename>
+				<Filename>osdlyrics-installer.desktop</Filename>
+				<Filename>osdlyrics.desktop</Filename>
+				<Filename>goldendict-installer.desktop</Filename>
+				<Filename>goldendict.desktop</Filename>
 
 				<Filename>anki.desktop</Filename>
-				<Filename>goldendict.desktop</Filename>
-				<Filename>osdlyrics.desktop</Filename>
 			</Include>
 		</Menu>
 	</Menu>

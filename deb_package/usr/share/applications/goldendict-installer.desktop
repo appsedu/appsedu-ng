@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=GoldenDict
+Exec=/usr/bin/goldendict-installer
+Icon=goldendict-installer
+Terminal=false
+Type=Application
+StartupNotify=true
+NoDisplay=false
