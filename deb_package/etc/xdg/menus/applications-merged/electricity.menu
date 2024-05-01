@@ -21,8 +21,8 @@
 				<Filename>circuit-simulator.desktop</Filename>
 				<Filename>gresistor-installer.desktop</Filename>
 				<Filename>gresistor.desktop</Filename>
-				
 				<Filename>simulide.desktop</Filename>
+
 				<Filename>oregano.desktop</Filename>
 			</Include>
 		</Menu>

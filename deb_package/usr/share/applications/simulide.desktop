@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=SimulIDE Circuit Simulator
+Exec=/usr/bin/simulide-installer
+Icon=simulide-installer
+Terminal=false
+Type=Application
+StartupNotify=true
+NoDisplay=false

@@ -1,0 +1,10 @@
+#!/bin/bash
+
+if [ ! -f /usr/bin/simulide_sr0 ]; then
+    pkexec /usr/share/appsedu/simulide.sh 2>&1 >/dev/null | \
+    zenity --progress --pulsate --no-cancel --auto-close --title="SimulIDE" --width=450 \
+    --text="Espere um pouco. Estamos instalando o app..."
+    ln -s /usr/share/simulide_sr0/examples ~/SimulIDE\ Exemplos
+fi
+
+simulide_sr0
