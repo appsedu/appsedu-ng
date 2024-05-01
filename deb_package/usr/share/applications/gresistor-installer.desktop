@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=gResistor
+Exec=/usr/bin/gresistor-installer
+Icon=gresistor-installer
+Terminal=false
+Type=Application
+StartupNotify=true
+NoDisplay=false
