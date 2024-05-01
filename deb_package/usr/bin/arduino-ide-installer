@@ -1,0 +1,9 @@
+#!/bin/bash
+
+if [ ! -f /usr/bin/arduino-ide ]; then
+    pkexec /usr/share/appsedu/arduino-ide.sh | \
+    zenity --progress --pulsate --no-cancel --auto-close --title="Arduino IDE" --width=450 \
+    --text="Espere um pouco. Estamos instalando o app..."
+fi
+
+arduino-ide

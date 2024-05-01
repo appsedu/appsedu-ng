@@ -1,0 +1,11 @@
+[Desktop Entry]
+Name=Arduino IDE
+Exec=/usr/bin/arduino-ide-installer
+Icon=arduino-ide
+Terminal=false
+Type=Application
+StartupNotify=true
+NoDisplay=false
+Categories=Development;Engineering;IDE;
+MimeType=text/x-arduino
+StartupWMClass=processing-app-Base
