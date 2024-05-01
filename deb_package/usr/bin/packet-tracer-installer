@@ -1,0 +1,15 @@
+#!/bin/bash
+
+zenity --info --width=500 --title="Passo a passo para instalar" \
+--text="1. Você irá acessar a Cisco NetAcad e fazer login. \n"\
+"2. Baixar o arquivo para Ubuntu Desktop versão 8.2.2 \n"\
+"3. Selecionar o arquivo que instalaremos pra você! \n\n"\
+"Vamos abrir o site Cisco NetAcad pra você , ok?"
+xdg-open "https://www.netacad.com/portal/resources/packet-tracer"
+PATHDEB=`zenity --file-selection --title="Selecione o arquivo CiscoPacketTracer.deb"`
+
+pkexec /usr/share/appsedu/packet-tracer.sh "$PATHDEB" 2>&1 >/dev/null | \
+zenity --progress --pulsate --no-cancel --auto-close --title="Packet Tracer 8" --width=450 \
+--text="Espere um pouco. Estamos instalando o app..."
+
+/opt/pt/packettracer

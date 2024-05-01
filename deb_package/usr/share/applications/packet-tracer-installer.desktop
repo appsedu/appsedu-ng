@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Packet Tracer 8
+Exec=/usr/bin/packet-tracer-installer
+Icon=packet-tracer-installer
+Terminal=false
+Type=Application
+StartupNotify=true
+NoDisplay=false

@@ -20,8 +20,8 @@
 				<Filename>org.kde.kturtle-installer.desktop</Filename>
 				<Filename>org.kde.kturtle.desktop</Filename>
 				<Filename>digital-simulator.desktop</Filename>
-
-				<Filename>cisco-pt7.desktop</Filename>
+				<Filename>packet-tracer-installer.desktop</Filename>
+				<Filename>cisco-pt821.desktop</Filename>
 			</Include>
 		</Menu>
 	</Menu>

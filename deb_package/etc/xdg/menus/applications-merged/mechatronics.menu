@@ -11,8 +11,8 @@
 			<Include>
 				<Filename>qelectrotech-installer.desktop</Filename>
 				<Filename>qelectrotech.desktop</Filename>
-
 				<Filename>arduino-ide.desktop</Filename>
+
 				<Filename>webots.desktop</Filename>
 				<Filename>gazebo.desktop</Filename>
 				<Filename>coppelia-sim-edu.desktop</Filename>
