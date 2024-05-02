@@ -23,13 +23,14 @@
 				<Filename>tuxpaint.desktop</Filename>
 				<Filename>tuxmath.desktop</Filename>
 				<Filename>tuxtype.desktop</Filename>
+				<Filename>eduactiv8-installer.desktop</Filename>
+				<Filename>eduactiv8.desktop</Filename>
 
 				<Filename>sugarizer.desktop</Filename>
 				<Filename>pysycache.desktop</Filename>
 				<Filename>pysycache-admin.desktop</Filename>
 				<Filename>net.minetest.minetest.desktop</Filename>
 				<Filename>omnitux.desktop</Filename>
-				<Filename>eduactiv8.desktop</Filename>
 			</Include>
 		</Menu>
 	</Menu>

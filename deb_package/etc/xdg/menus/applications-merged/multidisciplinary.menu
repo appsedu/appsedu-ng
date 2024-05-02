@@ -14,9 +14,9 @@
 				<Filename>org.kde.kwordquiz-installer.desktop</Filename>
 				<Filename>gnumeric.desktop</Filename>
 				<Filename>org.kde.parley.desktop</Filename>
+				<Filename>eduactiv8.desktop</Filename>
 
 				<Filename>anki.desktop</Filename>
-				<Filename>eduactiv8.desktop</Filename>
 			</Include>
 		</Menu>
 	</Menu>

@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=eduActiv8
+Exec=/usr/bin/eduactiv8-installer
+Icon=eduactiv8-installer
+Terminal=false
+Type=Application
+StartupNotify=true
+NoDisplay=false
