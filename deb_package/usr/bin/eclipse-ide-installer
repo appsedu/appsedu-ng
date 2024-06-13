@@ -1,0 +1,20 @@
+#!/bin/bash
+
+if [ ! -f /usr/bin/eclipse-ide ]; then
+
+    if [ -f /usr/bin/xfce4-terminal ]; then 
+        xfce4-terminal --disable-server -x bash -c "wget https://eclipse.c3sl.ufpr.br/technology/epp/downloads/release/2024-06/R/eclipse-jee-2024-06-R-linux-gtk-x86_64.tar.gz -q --no-check-certificate --show-progress -O /tmp/eclipse-ide.tar.gz"
+        xfce4-terminal --disable-server -x bash -c "wget https://eclipse.c3sl.ufpr.br/windowbuilder/updates/release/1.16.0/WindowBuilder-Updates-1.16.0.zip -q --no-check-certificate --show-progress -O /tmp/window-builder.zip"
+    else
+        wget https://eclipse.c3sl.ufpr.br/technology/epp/downloads/release/2024-06/R/eclipse-jee-2024-06-R-linux-gtk-x86_64.tar.gz -q --no-check-certificate --show-progress -O /tmp/eclipse-ide.tar.gz
+        wget https://eclipse.c3sl.ufpr.br/windowbuilder/updates/release/1.16.0/WindowBuilder-Updates-1.16.0.zip -q --no-check-certificate --show-progress -O /tmp/window-builder.zip
+    fi
+
+    pkexec /usr/share/appsedu/eclipse-ide.sh | \
+    zenity --progress --pulsate --no-cancel --auto-close --title="Eclipse IDE" --width=450 \
+    --text="Espere um pouco. Estamos instalando o app..."
+    
+    eclipse-ide -application org.eclipse.equinox.p2.director -repository 'jar:file:/tmp/window-builder.zip!/' -installIU org.eclipse.wb.core.feature.feature.group,org.eclipse.wb.doc.user.feature.feature.group,org.eclipse.wb.core.ui.feature.feature.group,org.eclipse.wb.layout.group.feature.feature.group,org.eclipse.wb.core.java.feature.feature.group,org.eclipse.wb.swing.feature.feature.group,org.eclipse.wb.swing.doc.user.feature.feature.group,org.eclipse.wb.rcp.feature.feature.group,org.eclipse.wb.swt.feature.feature.group,org.eclipse.wb.rcp.doc.user.feature.feature.group,org.eclipse.wb.rcp.SWT_AWT_support.feature.group
+fi
+
+eclipse-ide

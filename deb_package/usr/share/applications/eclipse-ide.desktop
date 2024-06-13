@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=Eclipse IDE
+Exec=/usr/bin/eclipse-ide-installer
+Icon=eclipse-installer
+Terminal=false
+Type=Application
+StartupNotify=true
+NoDisplay=false
+Categories=Development;IDE;
