@@ -1,0 +1,24 @@
+#!/bin/bash
+
+# USE: sudo watermark NUM
+
+if [ "$(id -u)" != "0" ]; then
+    echo "Need to be root!"
+    exit 1
+fi
+
+bgimage=$(xfconf-query -c xfce4-desktop -p /backdrop/screen0/monitoreDP-1/workspace0/last-image)
+echo "$bgimage"
+
+if [ ! -f "$bgimage.bkp" ]; then
+   cp "$bgimage" "$bgimage.bkp"
+   echo "backup done!"
+fi
+
+if [ "$1" != "" ]; then
+   echo $1 > /etc/veyon-count
+fi
+num=$(cat /etc/veyon-count)
+
+# convert -list font
+convert "$bgimage.bkp" -pointsize 650 -font Helvetica-Bold -fill '#3d4c57' -draw "text 80,1000 '$num'" $bgimage
