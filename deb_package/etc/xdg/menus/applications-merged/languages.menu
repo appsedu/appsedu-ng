@@ -18,7 +18,7 @@
 				<Filename>osdlyrics-installer.desktop</Filename>
 				<Filename>osdlyrics.desktop</Filename>
 				<Filename>goldendict-installer.desktop</Filename>
-				<Filename>goldendict.desktop</Filename>
+				<Filename>org.goldendict.GoldenDict.desktop</Filename>
 
 				<Filename>anki.desktop</Filename>
 			</Include>
