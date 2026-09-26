@@ -11,6 +11,7 @@
 			<Include>
 				<Filename>celestia-installer.desktop</Filename>
 				<Filename>celestia-gtk.desktop</Filename>
+				<Filename>space.celestiaproject.celestia_qt6.desktop</Filename>
 				<Filename>stellarium-installer.desktop</Filename>
 				<Filename>org.stellarium.Stellarium.desktop</Filename>
 				<Filename>org.kde.kstars-installer.desktop</Filename>
