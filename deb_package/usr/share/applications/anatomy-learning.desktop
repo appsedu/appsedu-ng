@@ -1,7 +1,7 @@
 [Desktop Entry]
 Name=Anatomy Learning
 Name[pt_BR]=Aprendendo Anatomia
-Exec=xdg-open https://anatomylearning.com/webgl2023v3/browser.php
+Exec=xdg-open https://anatomylearning.com/browser/
 Icon=anatomy-learning
 Terminal=false
 Type=Application
