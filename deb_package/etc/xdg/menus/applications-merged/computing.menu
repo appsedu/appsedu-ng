@@ -22,6 +22,8 @@
 				<Filename>digital-simulator.desktop</Filename>
 				<Filename>packet-tracer-installer.desktop</Filename>
 				<Filename>cisco-pt821.desktop</Filename>
+                <Filename>CiscoPacketTracer-9.0.1.desktop</Filename>
+                <Filename>CiscoPacketTracerPtsa-9.0.1.desktop</Filename>
 			</Include>
 		</Menu>
 	</Menu>
