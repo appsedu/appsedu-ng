@@ -1,5 +1,7 @@
 #!/bin/bash
 
+curl -fsSL https://download.opensuse.org/repositories/home:imiolek-i/xUbuntu_25.04/Release.key | gpg --dearmor | tee /etc/apt/trusted.gpg.d/home_imiolek-i.gpg
+echo 'deb http://download.opensuse.org/repositories/home:/imiolek-i/xUbuntu_25.04/ /' | tee /etc/apt/sources.list.d/home:imiolek-i.list
 apt update
 apt install eduactiv8 -y
 
