@@ -19,7 +19,7 @@
 				<Filename>osdlyrics.desktop</Filename>
 				<Filename>goldendict-installer.desktop</Filename>
 				<Filename>org.goldendict.GoldenDict.desktop</Filename>
-
+                <Filename>io.github.xiaoyifang.goldendict_ng.desktop</Filename>
 				<Filename>anki.desktop</Filename>
 			</Include>
 		</Menu>
