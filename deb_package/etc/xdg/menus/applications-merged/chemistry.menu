@@ -15,6 +15,7 @@
 				<Filename>gelemental.desktop</Filename>
 				<Filename>avogadro-installer.desktop</Filename>
 				<Filename>avogadro2.desktop</Filename>
+                <Filename>org.openchemistry.Avogadro2.desktop</Filename>
 				<Filename>org.kde.kalzium-installer.desktop</Filename>
 				<Filename>org.kde.kalzium.desktop</Filename>
 				<Filename>gchempaint-installer.desktop</Filename>
