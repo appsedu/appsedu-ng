@@ -1,7 +1,7 @@
 [Desktop Entry]
 Name=More Educational Apps
 Name[pt_BR]=Mais Apps Educativos
-Exec=xdg-open https://appsedu.github.io/catalog-apps/
+Exec=xdg-open https://appsedu.github.io/awesome-educational-apps-for-linux/
 Icon=more-educational-apps
 Terminal=false
 Type=Application
