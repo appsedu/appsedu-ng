@@ -12,4 +12,4 @@ pkexec /usr/share/appsedu/packet-tracer.sh "$PATHDEB" 2>&1 >/dev/null | \
 zenity --progress --pulsate --no-cancel --auto-close --title="Packet Tracer 8" --width=450 \
 --text="Espere um pouco. Estamos instalando o app..."
 
-/opt/pt/packettracer
+xfce4-terminal -e "packettracer"
